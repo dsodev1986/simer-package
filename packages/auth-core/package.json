@@ -1,0 +1,12 @@
+{
+  "name": "@simer/auth-core",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "npx tsc -p tsconfig.json"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
